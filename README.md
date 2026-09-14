@@ -12,7 +12,7 @@
 [![Website](https://img.shields.io/badge/Website-mistrah.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mistrah.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abbas%20Mistrah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-mistrah-b0b53119a)
 [![Medium](https://img.shields.io/badge/Medium-@abbas__mistrah-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abbas_mistrah)
-[![GitHub](https://img.shields.io/badge/GitHub-abbas--mistrah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbas-mistrah)
+[![GitHub](https://img.shields.io/badge/GitHub-Actions%20%26%20CI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abbas-mistrah)
 [![Hireable](https://img.shields.io/badge/Status-Open%20to%20opportunities-2ea44f?style=for-the-badge)](https://mistrah.com)
 
 <br/>
@@ -60,7 +60,7 @@ I work at the intersection of **AI product strategy**, **organizational transfor
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Actions%20%26%20Repos-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Actions%20%26%20CI-181717?style=flat-square&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
