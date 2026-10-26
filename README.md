@@ -16,7 +16,7 @@ I help leadership teams turn AI ambition into **measurable, trusted results**.
 
 A strategy for AI is not a list of use cases. It is a decision system: **where to focus, who decides, what to measure, what to refuse, and how a pilot becomes a run.**
 
-Entrepreneur based in Paris, founder of **Golden Technomistria** and **Mistrah Institute**. The repositories below are the open-source side of that work: tools that make AI portfolios governable and their value provable.
+Based in Paris. The repositories below are the open-source side of my work: tools that make AI portfolios governable and their value provable.
 
 ## Selected projects
 
