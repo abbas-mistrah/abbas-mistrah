@@ -26,7 +26,6 @@ Entrepreneur based in Paris, founder of **Golden Technomistria** and **Mistrah I
 | [**strategy-os**](https://github.com/abbas-mistrah/strategy-os) | Transformation Intelligence & ROI: design strategy, track execution, measure impact, attribute value and prove ROI. |
 | [**scale-gate**](https://github.com/abbas-mistrah/scale-gate) | Enterprise AI evidence and scale decision engine: from pilot promise to defensible scale. |
 | [**radarline**](https://github.com/abbas-mistrah/radarline) | Local-first Technology & AI Intelligence OS: from information noise to decision-ready signals. |
-| [**CORTEX**](https://github.com/abbas-mistrah/CORTEX) | A user-owned AI memory OS that turns conversations, documents and decisions into durable, connected context. |
 | [**Pyxell**](https://github.com/abbas-mistrah/Pyxell) | Pyxell.ai: the autonomous digital companion. |
 
 ## Research
