@@ -22,26 +22,24 @@ Entrepreneur based in Paris. The repositories below are the open-source side of 
 
 | Project | What it does |
 |:--|:--|
-| [**boussole**](https://github.com/abbas-mistrah/boussole) | Enterprise AI Transformation Intelligence: govern the portfolio, drive adoption, measure ROI and prove value. |
 | [**strategy-os**](https://github.com/abbas-mistrah/strategy-os) | Transformation Intelligence & ROI: design strategy, track execution, measure impact, attribute value and prove ROI. |
 | [**scale-gate**](https://github.com/abbas-mistrah/scale-gate) | Enterprise AI evidence and scale decision engine: from pilot promise to defensible scale. |
 | [**radarline**](https://github.com/abbas-mistrah/radarline) | Local-first Technology & AI Intelligence OS: from information noise to decision-ready signals. |
-| [**Pyxell**](https://github.com/abbas-mistrah/Pyxell) | Pyxell.ai: the autonomous digital companion. |
 
 ## Research
 
 - [*It’s Not the Technology*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7038158) · SSRN 7038158 · [doi:10.2139/ssrn.7038158](https://doi.org/10.2139/ssrn.7038158)
 - [*Eighteen Frameworks, No Evidence*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7232782) · SSRN 7232782 · [doi:10.2139/ssrn.7232782](https://doi.org/10.2139/ssrn.7232782)
 
-## Latest writing on Medium (in French)
+## Latest writing (English and French)
 
-- [NVIDIA est devenu le banquier de l’IA](https://medium.com/@abbas_mistrah/nvidia-est-devenu-le-banquier-de-lia-le-risque-de-l-ia-n-est-plus-seulement-technique-il-est-13c49bd7a47f) · 26 Oct 2026
-- [AWS a presque tout vendu jusqu’en 2027 : la puissance de calcul devient une ressource rare](https://medium.com/@abbas_mistrah/aws-a-presque-tout-vendu-jusquen-2027-la-puissance-de-calcul-devient-une-ressource-rare-comme-e7e40e688d05) · 25 Oct 2026
-- [Kimi K3.1 Pro : un modèle ouvert, une fois publié, ne se reprend plus](https://medium.com/@abbas_mistrah/kimi-k3-1-pro-un-mod%C3%A8le-ouvert-une-fois-publi%C3%A9-ne-se-reprend-plus-c995d839ae84) · 25 Oct 2026
-- [Claude Mythos 5 a créé de faux comptes pour faire céder un humain](https://medium.com/@abbas_mistrah/claude-mythos-5-a-cr%C3%A9%C3%A9-de-faux-comptes-pour-faire-c%C3%A9der-un-humain-le-danger-cest-l-agent-pr%C3%AAt-%C3%A0-a478a4b03339) · 25 Oct 2026
-- [Surveiller ses agents IA ne vaut rien tant que personne n’a essayé de casser la surveillance](https://medium.com/@abbas_mistrah/surveiller-ses-agents-ia-ne-vaut-rien-tant-que-personne-na-essay%C3%A9-de-casser-la-surveillance-dec115c5c8c8) · 24 Oct 2026
-- [Agents IA dans les banques : un agent doit avoir sa propre identité, pas votre mot de passe](https://medium.com/@abbas_mistrah/agents-ia-dans-les-banques-un-agent-doit-avoir-sa-propre-identit%C3%A9-pas-votre-mot-de-passe-7fb39574521b) · 23 Oct 2026
-- Start here: [De l’ambition IA aux résultats mesurables : 5 décisions de gouvernance](https://medium.com/@abbas_mistrah/de-lambition-ia-aux-r%C3%A9sultats-mesurables-5-d%C3%A9cisions-de-gouvernance-c902e0721094)
+- [OpenAI's Cyber Model Finds Exploits at Scale. The Number That Matters Is Whether It Stays in Scope.](https://medium.com/@abbas_mistrah/openais-cyber-model-finds-exploits-at-scale-the-number-that-matters-is-whether-it-stays-in-scope-b198095edb1c) · 9 Nov 2026
+- [The Best AI Model Scores 12% on Real Expert Work. Build Your AI Roadmap on That Number.](https://pub.towardsai.net/the-best-ai-model-scores-12-on-real-expert-work-build-your-ai-roadmap-on-that-number-7026306678de) · Towards AI · 3 Nov 2026
+- [The Era of Unlimited AI Money Is Over. Cheap AI Will Be Paid For, One Way or Another.](https://alt.ctrlmag.com/the-era-of-unlimited-ai-money-is-over-cheap-ai-will-be-paid-for-one-way-or-another-0f06f64e4d9f) · 2 Nov 2026
+- [Amazon and JPMorgan Are Blocking AI Agents. Walmart and Google Are Writing the Rules.](https://pub.towardsai.net/amazon-and-jpmorgan-are-blocking-ai-agents-walmart-and-google-are-writing-the-rules-d1539e4fb9f6) · Towards AI · 2 Nov 2026
+- [The Pentagon Banned Claude. A Claude Agent Reportedly Ran on Its Network for Two Months Anyway.](https://medium.com/@abbas_mistrah/the-pentagon-banned-claude-a-claude-agent-reportedly-ran-on-its-network-for-two-months-anyway-c41b24cea3a9) · 31 Oct 2026
+- [Mistral Large 4 n’est que 36e au classement : la souveraineté ne se gagne pas au score](https://medium.com/@abbas_mistrah/mistral-large-4-nest-que-36e-au-classement-la-souverainet%C3%A9-ne-se-gagne-pas-au-score-eb592fb3f4f4) · 31 Oct 2026 (FR)
+- Start here (FR): [De l’ambition IA aux résultats mesurables : 5 décisions de gouvernance](https://medium.com/@abbas_mistrah/de-lambition-ia-aux-r%C3%A9sultats-mesurables-5-d%C3%A9cisions-de-gouvernance-c902e0721094)
 
 [All articles →](https://medium.com/@abbas_mistrah)
 
